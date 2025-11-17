@@ -1,11 +1,9 @@
 # 📈 Stock Price Prediction using Machine Learning
-
 Welcome to the **Stock Predictor AI Model** repository! This project demonstrates how I trained a machine learning model to predict stock prices using **TensorFlow**, **historical financial data**, and **feature engineering techniques**. The model was developed, trained, and tested in **Google Colab**.
 
 ---
 
 ## 🚀 Project Overview
-
 This project focuses on predicting future stock prices based on past data. The model uses several key features such as:
 
 * Open Price
