@@ -1,9 +1,9 @@
 # 📈 Stock Price Prediction using Machine Learning
+
 Welcome to the **Stock Predictor AI Model** repository! This project demonstrates how I trained a machine learning model to predict stock prices using **TensorFlow**, **historical financial data**, and **feature engineering techniques**. The model was developed, trained, and tested in **Google Colab**.
 
----
-
 ## 🚀 Project Overview
+
 This project focuses on predicting future stock prices based on past data. The model uses several key features such as:
 
 * Open Price
@@ -15,8 +15,6 @@ This project focuses on predicting future stock prices based on past data. The m
 
 The trained model can take recent stock values as input and predict the next-day closing price.
 
----
-
 ## 🧠 Technologies Used
 
 * **Python**
@@ -25,8 +23,6 @@ The trained model can take recent stock values as input and predict the next-day
 * **Matplotlib / Seaborn** (for visualizations)
 * **yfinance** (for stock data extraction)
 * **Google Colab** (training environment)
-
----
 
 ## 📁 Project Structure
 
@@ -39,8 +35,6 @@ The trained model can take recent stock values as input and predict the next-day
 ├── data.csv              # (Optional) dataset used
 └── README.md             # Documentation
 ```
-
----
 
 ## ⚙️ How the Model Works
 
@@ -55,8 +49,6 @@ The trained model can take recent stock values as input and predict the next-day
 5. **Save Model for Future Predictions**
 6. **Use Trained Model to Predict Future Stock Prices**
 
----
-
 ## 📊 Example Output
 
 After entering the date range and stock ticker, the model gives:
@@ -65,8 +57,6 @@ After entering the date range and stock ticker, the model gives:
 * Trend direction (Up/Down)
 * Previous 5 days data
 * Graph of stock movement
-
----
 
 ## 🌐 Deployment
 
@@ -78,8 +68,6 @@ Deployment options planned:
 
 Links will be added soon.
 
----
-
 ## 📌 Features To Add
 
 * Deploy live prediction model online
@@ -87,13 +75,9 @@ Links will be added soon.
 * UI-based front-end
 * Advanced models (LSTM, GRU)
 
----
-
 ## 🤝 Contributing
 
 Feel free to fork the repository, create a new branch, and submit a pull request.
-
----
 
 ## 📬 Contact
 
@@ -101,8 +85,6 @@ For any queries or collaboration:
 
 * **Email:** [hdgurjar2323@gmail.com](mailto:hdgurjar2323@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/harshil-gurjar23/](http://www.linkedin.com/in/harshil-gurjar23/)
-
----
 
 ## ⭐ Support
 
